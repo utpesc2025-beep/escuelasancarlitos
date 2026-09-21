@@ -29,7 +29,7 @@ collections:
       - label: RBD
         name: rbd
         widget: string
-      - label: Directora
+      - label: Equipo Directivo
         name: director
         widget: string
       - label: Misión
