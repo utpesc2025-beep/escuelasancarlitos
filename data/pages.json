@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "academica",
+      "title": "Área académica / UTP",
+      "text": "Planificación, evaluación formativa y acompañamiento de los procesos de enseñanza y aprendizaje.",
+      "image": ""
+    },
+    {
+      "id": "pie",
+      "title": "Programa de Integración Escolar",
+      "text": "Trabajo colaborativo y apoyos para favorecer la participación y los aprendizajes.",
+      "image": ""
+    },
+    {
+      "id": "convivencia",
+      "title": "Convivencia educativa",
+      "text": "Buen trato, bienestar y espacios de aprendizaje respetuosos e inclusivos.",
+      "image": ""
+    },
+    {
+      "id": "padres",
+      "title": "Centro de Padres",
+      "text": "Espacio para incorporar información y actividades de la organización.",
+      "image": ""
+    },
+    {
+      "id": "estudiantes",
+      "title": "Centro de Estudiantes",
+      "text": "Espacio para incorporar iniciativas de participación estudiantil.",
+      "image": ""
+    }
+  ]
+}

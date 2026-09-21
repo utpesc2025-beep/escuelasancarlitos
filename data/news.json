@@ -1,0 +1,15 @@
+{
+  "news": [
+    {
+      "date": "2026-09-13",
+      "category": "Comunidad",
+      "title": "Bienvenidos al sitio web de nuestra escuela",
+      "text": "La Escuela Básica San Carlitos presenta su nuevo sitio web institucional, un espacio destinado a informar y mantener conectada a nuestra comunidad educativa.",
+      "image": "/assets/uploads/descarga.jpg",
+      "body": "lo dejare vacío",
+      "featured": true,
+      "published": true,
+      "slug": "bienvenidos-al-sitio-web"
+    }
+  ]
+}
