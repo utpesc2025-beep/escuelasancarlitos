@@ -1,15 +1,21 @@
 {
   "pages": [
     {
-      "id": "academica",
-      "title": "Área académica / UTP",
-      "text": "Planificación, evaluación formativa y acompañamiento de los procesos de enseñanza y aprendizaje.",
+      "id": "inspectoría",
+      "title": "Inspectoría General",
+      "text": "La Inspectoría General de la Escuela Básica San Carlitos tiene como propósito contribuir al buen funcionamiento de nuestra comunidad educativa, promoviendo una convivencia basada en el respeto, la responsabilidad, el buen trato y el cumplimiento de las normas que nos permiten aprender y convivir en un ambiente seguro y acogedor.\n\nDesde Inspectoría General acompañamos a nuestros estudiantes en su trayectoria escolar, apoyando aspectos relacionados con la asistencia, puntualidad, convivencia, seguridad y vida escolar, trabajando de manera colaborativa con docentes, asistentes de la educación y familias.\n\nNuestro compromiso es fortalecer día a día una escuela donde cada integrante de la comunidad se sienta respetado, acompañado y parte de San Carlitos.",
       "image": ""
     },
     {
-      "id": "pie",
+      "id": "academica",
+      "title": "UTP",
+      "text": "La Unidad Técnico-Pedagógica de la Escuela Básica San Carlitos tiene como propósito acompañar y fortalecer los procesos de enseñanza y aprendizaje, promoviendo una educación de calidad, inclusiva y centrada en el desarrollo integral de nuestros estudiantes.\n\nDesde UTP se coordinan y apoyan los procesos de planificación, evaluación, acompañamiento docente, desarrollo profesional y seguimiento de los aprendizajes, trabajando colaborativamente con docentes, asistentes de la educación, estudiantes y familias.\n\nNuestro compromiso es contribuir a una comunidad educativa que aprende, innova y mejora continuamente, generando oportunidades para que cada estudiante pueda desarrollar sus capacidades y alcanzar sus aprendizajes.\n\n“Trabajamos juntos para enseñar mejor y aprender más.”",
+      "image": ""
+    },
+    {
+      "id": "PIE",
       "title": "Programa de Integración Escolar",
-      "text": "Trabajo colaborativo y apoyos para favorecer la participación y los aprendizajes.",
+      "text": "El Programa de Integración Escolar (PIE) de la Escuela Básica San Carlitos tiene como propósito favorecer la participación, el aprendizaje y la inclusión de todos nuestros estudiantes, reconociendo y valorando sus características, necesidades y potencialidades.\n\nNuestro equipo trabaja colaborativamente con docentes, estudiantes y familias, implementando estrategias de apoyo, acompañamiento y adecuaciones que permitan avanzar hacia una educación inclusiva y de calidad.\n\nCreemos que la diversidad enriquece nuestra comunidad educativa y que, mediante el trabajo conjunto, podemos generar más y mejores oportunidades de aprendizaje para todos y todas.\n\n“Una escuela inclusiva es aquella donde todos tienen la oportunidad de aprender, participar y sentirse parte.”",
       "image": ""
     },
     {
